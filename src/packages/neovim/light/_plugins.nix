@@ -2,6 +2,7 @@
 with pkgs.vimPlugins; [
   # Look & Feel
   # ----------------
+  bufferline-nvim
   kanagawa-nvim
   lualine-nvim
   noice-nvim
@@ -10,6 +11,7 @@ with pkgs.vimPlugins; [
 
   # Navigation
   # ----------------
+  better-escape-nvim
   harpoon
   mini-nvim
   telescope-frecency-nvim
