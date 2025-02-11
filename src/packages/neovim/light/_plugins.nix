@@ -5,6 +5,7 @@ with pkgs.vimPlugins; [
   bufferline-nvim
   kanagawa-nvim
   lualine-nvim
+  nvim-navic
   noice-nvim
   nvim-notify
   which-key-nvim
