@@ -35,5 +35,6 @@ wk.add({
   },
 
   { "<leader>m", group = "+harpoon" },
+  { "<leader>n", group = "+noice" },
   { "<leader>s", group = "+search" },
 })
